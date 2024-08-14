@@ -2,7 +2,7 @@
 <h3 align="center">  a CSE engineer passionate about coding. Proficient in C, C++, CSS, HTML, Javascript, DSA, and SQL. I've built a Restaurant Billing System in C and a Event Booking Management System in C++ using DSA. Let's connect and code!</h3>
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 
-- 🌱 I’m currently learning *JS*
+- 🌱 I’m currently learning *App Development*
 
 - 📫 How to reach me *sandeep11320@gmail.com*
 
