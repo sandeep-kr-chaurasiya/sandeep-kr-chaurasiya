@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Sandeep Kumar Chaurasiya,</h1>
-<h3 align="center">a CSE engineer passionate about coding. Proficient in Web development, Kotlin ,Java, C, C++, CSS, HTML, JavaScript, DSA, and SQL.  Let's connect and code!</h3>
+<h3 align="center">a CSE engineer passionate about coding. Proficient in Web development, Kotlin ,Java, C, C++, CSS, HTML, JavaScript .  Let's connect and code!</h3>
 
 - 🌱 I’m currently learning **Kotlin** and **App Development**
 
