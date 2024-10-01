@@ -1,7 +1,9 @@
 # 💫 About Me
 <h1 align="center">👋 Hi, I'm Sandeep kumar ,</h1>
 <h3 align="center">  A Computer Science Engineer passionate about coding. Proficient in Kotlin,java,C, C++, AWS, Python,HTML,CSS, Javascript, DSA, Let's connect and code!</h3>
-🌱 I’m currently learning Kotlin and App Development<br><br>📫 How to reach me: sandeep11320@gmail.com<br><br>⚡ Fun fact: I think I am crazy and funny<br><br>
+🌱 I’m currently learning Kotlin and App Development<br><br>
+-📫 How to reach me: sandeepkr11320@gmail.com <br>
+<br>⚡ Fun fact: I think I am crazy and funny<br><br>
 
 
 ## 🌐 Socials:
